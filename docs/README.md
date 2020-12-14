@@ -10,5 +10,5 @@
 
 ​	本书适用于从事Android开发，iOS开发，web开发对Flutter有兴趣开发者作为入门书籍，如果你已然对Flutter有一些了解或者已经使用Flutter完成了几个项目，或许本书的大部分章节不适合你，敢兴趣的话，可以找自己感兴趣的章节跳着读一下。同样适应于完全没有参与过移动开发的相关工作，但是有计算机的基础知识以及熟悉一门计算机语言的同学。
 
-​	本书内容会完全开源（https://github.com/gaoyong06/flutter-program-design），环境大家pr以及提交issues
+​	本书内容会完全[开源](https://github.com/gaoyong06/flutter-program-design)，欢迎大家Pull Request以及提交[issues](https://github.com/gaoyong06/flutter-program-design/issues)
 
