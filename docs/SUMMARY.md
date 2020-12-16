@@ -4,8 +4,8 @@
 * [前言](intro.md)
 
 * [第一章：移动应用技术发展背景介绍](chapter1/index.md)
-    * [xxxx](chapter1/section1.1.md)
-    * [xxxx](chapter1/section1.2.md)
+    * [移动设备操作系统介绍](chapter1/section1.1.md)
+    * [技术框架介绍](chapter1/section1.2.md)
 * [第二章：安装配置](chapter2/index.md)
     * [xxxx](chapter2/section2.1.md)
     * [xxxx](chapter2/section2.2.md)
